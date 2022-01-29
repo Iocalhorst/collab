@@ -1,0 +1,31 @@
+1. Was ist "least privilege policy"?
+3. Was bedeutend "Integrität, Authentizität und Vertraulichkeit" im Sinne eines formulierten Schutzziels
+4. Was ist asymmetrische Verschlüsselung?
+5. Was ist security by obscurity?
+6. Was ist social engineering?
+7. Was ist lateral movement?
+8. Was ist fingerprinting?
+9. was ist ein angriffsvektor?
+10. Was ist ein Bug? Was ist ein Bugbounty?
+11. Was ist eine Sicherheitslücke/CVE?
+12. Was ist ein Exploit?
+13. Was ist ein 0-Day-Exploit?
+14. Was ist Mitigation?
+15. Was ist ein Buffer Overflow?
+16. Was ist ASLR?
+17. Was ist Full Disclosure?
+18. Was ist Responsible Disclosure?
+19. Was Cross-Site-Scripting?
+10. Was ist SQL-Injection?
+20. Was ist RCE?
+21. Was ist Exploit-Chaining?
+22. Was ist "Eternal Blue"
+23. Was ist "Hearbleed"
+24. Was ist eine Hashfunktion?
+25. Was ist eine Cryptographische Signatur?
+26. Was ist "User-Input-Validation"?
+28. Was ist "Input"-Sanitization?
+29. Was ist Fuzzing?
+30. Was ist sandboxing?
+31. Was ist eine wormable Vulnarability?
+32. Was ist symmetrische Verschlüsselung?
