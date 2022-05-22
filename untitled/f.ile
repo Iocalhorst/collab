@@ -1,0 +1,39 @@
+[23:12] Uwe Unterwegs: und ausserdem noch elektroschocker/taser. für die pöhsen purchen.
+[23:22] Uwe Unterwegs: und den zusammenkopierten code checken, damit ich die fratzenerkennugn abschalten kann. weil die auflösung sonst nich hochzustellen geht.
+Uwe Unterwegs
+und nun muss ich iwie portforwarding und was finsteres mit ipv6 hostfreigabe und vpn oda so hinkriegen.
+[23:29] Meatmuesli: Ach du liebe scheisse
+[23:29] Meatmuesli: Port forwarding alleine ist ja schon nervig
+[23:33] Meatmuesli: Ach man. Ich will auch ein Projekt
+[23:34] Meatmuesli: Aber das kostet wieder alles Geld.
+[23:37] Uwe Unterwegs: du hast doch leds und arduino
+[23:37] Uwe Unterwegs: undn lötkolben
+[23:38] Uwe Unterwegs: oder kauf 2 wolle und 2 stricknadeln. und mach dir nen schal.
+[23:42] Meatmuesli: F u
+[23:42] Uwe Unterwegs: wenn du dir was bauen willst um die fernbedienung mal in rente schicken. mit buttons und drehreglern oder mit wlan und kleiner http api. sowas hab ich da
+Uwe Unterwegs
+du hast doch leds und arduino
+[23:42] Meatmuesli: Aber ja, hab überlegt wie der arduino die Steuerung übernehmen könnte
+[23:42] Uwe Unterwegs: kann ich dir zeigen
+[23:44] Meatmuesli: Hmm. Wenn ich mich rangelte könnte ich morgen nach Weiterbildung suchen, wieder mal trainieren gehen, lernen und später noch vorbei. Hab sie gesagt frei morgen
+[23:45] Uwe Unterwegs: der punk wäre die steuerelektronik vom hersteller aufzuknacken und da seine 3 pimmels für RGB reinzuhängen. der vorschriftsmäßige weg wäre mit nem eigenen kleinen LED-treiber schaltkreis.  oder man kaufn nen fertiges modul bei segor.
+[23:48] Uwe Unterwegs: https://www.segor.de/#Q=RGBLED-Controller&M=1
+SEGOR-electronics GmbH - Startseite
+SEGOR-electronics GmbH, 10589 Berlin-Charlottenburg, Germany/Deutschland bietet seit 1978 ein einzigartiges Sortiment an elektronischen Bauelementen, Werkzeugen und Materialien für Projekt-Entwickler, Ingenieure, Hobby-Elektroniker und Künstler
+[23:50] Uwe Unterwegs: wenn ich in /etc/hosts die zeile 192.168.0.4 pylo.bot reinschreibe kann ich ... weisst ja
+[23:51] Uwe Unterwegs: %windir%\system32\drivers\etc\hosts geht auch
+[23:54] Meatmuesli: Also meine erste Idee war tatsächlich mich einfach in der Steuerung dranzuhängen
+21 January 2022
+[00:15] Uwe Unterwegs: ich hab 12V rgb streifen hier. wir haben immer reichlich leds und mikrochips im haus. und den rest.und kann dir in ner stunde die theorie reindrücken und dann einmal vortanzen was du machen musst. (edited)
+[00:17] Uwe Unterwegs: web isn ein bisschen nerviger.
+[00:18] Uwe Unterwegs: aber äh du musst dir überlegen ob du den laptop mit python oder ide und serial monitor zum userinterface nehmen willst. was ne menge geraffel ist. oder ob 3 potentiometer vielleicht ne gute investition sind. (edited)
+[00:19] Uwe Unterwegs: oder wenigstens 6 kleine pushbuttons
+[00:19] Uwe Unterwegs: dann hastn eigenbau
+[00:19] Uwe Unterwegs: transistoren sind auch vorrätig.
+Uwe Unterwegs
+ich hab 12V rgb streifen hier. wir haben immer reichlich leds und mikrochips im haus. und den rest.und kann dir in ner stunde die theorie reindrücken und dann einmal vortanzen was du machen musst. (edited)
+[00:35] Meatmuesli: Brauche noch dreißig centimeter rgb
+[00:38] Meatmuesli: Hab schon ewig keinen seriellen Anschluss mehr…  bzw. das main board liegt in hannover^^
+Ich überleg mir morgen Früh was man machen kann
+[00:39] Uwe Unterwegs: der serial monitor geht über usb
+[01:47] Uwe Unterwegs: die neuen motoren die ich montiert hatte sind btw so dick wien filzstift. kleiner als meine zeigefingerkuppe. mit irrer feinmechanik geartrain in micrometergröße. wie kleine fingerkuppe. wenn ich meine abhacke dann könnte ich da ne prothese mit schraubendreher oder so mit basteln.
